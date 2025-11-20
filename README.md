@@ -63,7 +63,7 @@ git clone https://github.com/rajeev2004/Address-Validator.git
 cd Address-Validator
 ```
 
-### **2.Backend Setup (address-validator-service)
+### **2.Backend Setup (address-validator-service)**
 
 ```bash
 cd backend
@@ -71,7 +71,7 @@ npm install
 node server.js
 ```
 
-### **3.Frontend Setup (address-validator-ui)
+### **3.Frontend Setup (address-validator-ui)**
 
 ```bash
 cd frontend
@@ -79,7 +79,7 @@ npm install
 npm run dev
 ```
 
-### **4.Service Available on:
+### **4.Service Available on:**
 
 http://localhost:5173 
 
