@@ -59,14 +59,14 @@ This microservice acts as a plug-and-play API that brands can integrate into che
 ### **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/swift-address-validator.git
-cd 
+git clone https://github.com/rajeev2004/Address-Validator.git
+cd Address-Validator
 ```
 
 ### **2.Backend Setup (address-validator-service)
 
 ```bash
-cd address-validator-service
+cd backend
 npm install
 node server.js
 ```
@@ -74,7 +74,7 @@ node server.js
 ### **3.Frontend Setup (address-validator-ui)
 
 ```bash
-cd address-validator-ui
+cd frontend
 npm install
 npm run dev
 ```
